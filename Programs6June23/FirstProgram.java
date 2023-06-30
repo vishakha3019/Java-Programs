@@ -1,4 +1,4 @@
-/* 1. Input variables of following datatypes with Scanner
+java /* 1. Input variables of following datatypes with Scanner
 Integer
 Float
 Double
